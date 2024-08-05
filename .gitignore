@@ -1,0 +1,14 @@
+/작업물
+/ProjectA.sln
+/제작필요.txt
+/.vs
+/Build
+/BuildFile
+/Intermediate
+/Plugins
+/Saved
+*_BuiltData.uasset
+/Content/Asset
+/Binaries
+/Content/Common/
+/Content/HDRI_Epic_Courtyard_Daylight.uasset
